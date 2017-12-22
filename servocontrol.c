@@ -15,6 +15,8 @@
 #include "PIN_LPC17xx.h"
 #include "servocontrol.h"
 
+#include <string.h>
+
 int main(void)
 {
 	init();
